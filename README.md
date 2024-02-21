@@ -30,11 +30,6 @@ Abaixo de 18,5: Abaixo do peso
 Nota: O IMC é uma ferramenta de triagem e não leva em consideração outros fatores importantes, como composição corporal e distribuição de gordura. Sempre consulte um profissional de saúde para obter uma avaliação completa.
 
 ----------------------
-Licença:
-----------------------
-Este software é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
-
-----------------------
 Contribuições:
 ----------------------
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
