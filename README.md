@@ -38,3 +38,12 @@ Este software é distribuído sob a licença MIT. Consulte o arquivo LICENSE par
 Contribuições:
 ----------------------
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+----------------------
+Imagens:
+----------------------
+
+![Captura de tela 2024-02-21 122720](https://github.com/vinisilvabariane/Calculadora-IMC/assets/146668696/612ec0b3-de43-4e08-8d99-301a48639899)
+![Captura de tela 2024-02-21 122624](https://github.com/vinisilvabariane/Calculadora-IMC/assets/146668696/15c58db2-77e9-49c4-aa52-87047cfc54c2)
+![Captura de tela 2024-02-21 122645](https://github.com/vinisilvabariane/Calculadora-IMC/assets/146668696/2a1f48ec-5337-4b31-913b-6a1cfd2df28c)
+![Captura de tela 2024-02-21 122704](https://github.com/vinisilvabariane/Calculadora-IMC/assets/146668696/427884e6-f5b8-48bc-a9f6-f243af9e01ff)
